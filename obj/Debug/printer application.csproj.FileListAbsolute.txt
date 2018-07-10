@@ -1,0 +1,45 @@
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\bin\Debug\printer application.exe.config
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\bin\Debug\printer application.exe
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\bin\Debug\printer application.pdb
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\obj\Debug\printer application.csprojResolveAssemblyReference.cache
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\obj\Debug\printer_application.Form1.resources
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\obj\Debug\printer_application.Properties.Resources.resources
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\obj\Debug\printer application.csproj.GenerateResource.Cache
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\obj\Debug\printer application.exe
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\printer application\obj\Debug\printer application.pdb
+F:\New folder (3)\printer application\bin\Debug\printer application.exe.config
+F:\New folder (3)\printer application\obj\Debug\printer application.exe
+F:\New folder (3)\printer application\obj\Debug\printer application.pdb
+F:\New folder (3)\printer application\bin\Debug\printer application.exe
+F:\New folder (3)\printer application\bin\Debug\printer application.pdb
+F:\New folder (3)\printer application\obj\Debug\printer application.csprojResolveAssemblyReference.cache
+F:\New folder (3)\printer application\obj\Debug\printer_application.Form1.resources
+F:\New folder (3)\printer application\obj\Debug\printer_application.Properties.Resources.resources
+F:\New folder (3)\printer application\obj\Debug\printer application.csproj.GenerateResource.Cache
+G:\New folder (3)\printer application\bin\Debug\printer application.exe.config
+G:\New folder (3)\printer application\obj\Debug\printer application.exe
+G:\New folder (3)\printer application\obj\Debug\printer application.pdb
+G:\New folder (3)\printer application\bin\Debug\printer application.exe
+G:\New folder (3)\printer application\bin\Debug\printer application.pdb
+G:\New folder (3)\printer application\obj\Debug\printer application.csprojResolveAssemblyReference.cache
+G:\New folder (3)\printer application\obj\Debug\printer_application.Form1.resources
+G:\New folder (3)\printer application\obj\Debug\printer_application.Properties.Resources.resources
+G:\New folder (3)\printer application\obj\Debug\printer application.csproj.GenerateResource.Cache
+D:\New folder (3)\printer application\bin\Debug\printer application.exe.config
+D:\New folder (3)\printer application\obj\Debug\printer application.exe
+D:\New folder (3)\printer application\obj\Debug\printer application.pdb
+D:\New folder (3)\printer application\bin\Debug\printer application.exe
+D:\New folder (3)\printer application\bin\Debug\printer application.pdb
+D:\New folder (3)\printer application\obj\Debug\printer application.csprojResolveAssemblyReference.cache
+D:\New folder (3)\printer application\obj\Debug\printer_application.Form1.resources
+D:\New folder (3)\printer application\obj\Debug\printer_application.Properties.Resources.resources
+D:\New folder (3)\printer application\obj\Debug\printer application.csproj.GenerateResource.Cache
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\bin\Debug\printer application.exe.config
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\obj\Debug\printer application.exe
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\obj\Debug\printer application.pdb
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\bin\Debug\printer application.exe
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\bin\Debug\printer application.pdb
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\obj\Debug\printer application.csprojResolveAssemblyReference.cache
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\obj\Debug\printer_application.Form1.resources
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\obj\Debug\printer_application.Properties.Resources.resources
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\printer application\obj\Debug\printer application.csproj.GenerateResource.Cache
